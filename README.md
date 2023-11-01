@@ -19,8 +19,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
-CODE DEVELOPED BY: KEERTHANA S
-REGISTER NUMBER:212222230066
+CODE DEVELOPED BY: DHANESH M
+REGISTER NUMBER:212220220009
 ```
 ### Import required libraries
 ```py
