@@ -166,7 +166,7 @@ plt.title('Sales vs. Profit based on Segment, Ship Mode and Region')
 plt.show()
 ```
 
-# OUPUT
+# OUTPUT
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/3fd50ba0-7640-4f6e-82e5-60d0f67b4a7f)
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/d9adc176-4ecd-4077-970b-dcc1ed70f0fa)
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/423b351b-dca9-4cfd-bbe9-27dfaab2842e)
